@@ -1,9 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Dati ceva");
 String a = Console.ReadLine();
-
+Console.WriteLine("First user");
 try
 {
+    
     if(Int32.TryParse(a,out int b))
     {
         Console.WriteLine(b + "is a integer");
