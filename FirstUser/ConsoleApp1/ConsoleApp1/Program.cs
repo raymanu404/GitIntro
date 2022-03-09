@@ -2,11 +2,7 @@
 Console.WriteLine("Dati ceva");
 String a = Console.ReadLine();
 Console.WriteLine("First user");
-<<<<<<< HEAD
-Console.WriteLine("First user text conflict");
-=======
 Console.WriteLine("Second User comment");
->>>>>>> 4f1ed44d349f6ebf78fa64895df7c3f1fbc6ab0d
 try
 {
     
