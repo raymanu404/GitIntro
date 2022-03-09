@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Dati ceva");
 String a = Console.ReadLine();
-Console.WriteLine("First user");
+Console.WriteLine("First user in development branch");
 try
 {
     
