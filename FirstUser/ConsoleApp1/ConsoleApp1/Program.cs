@@ -2,6 +2,7 @@
 Console.WriteLine("Dati ceva");
 String a = Console.ReadLine();
 Console.WriteLine("Second user");
+Console.WriteLine("TRALALALALAAALALALA");
 try
 {
     
