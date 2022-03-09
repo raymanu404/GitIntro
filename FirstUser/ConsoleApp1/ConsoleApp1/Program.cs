@@ -2,6 +2,7 @@
 Console.WriteLine("Dati ceva");
 String a = Console.ReadLine();
 Console.WriteLine("First user");
+Console.WriteLine("Second User comment");
 try
 {
     
